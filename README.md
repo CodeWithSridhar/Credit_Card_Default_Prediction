@@ -35,4 +35,24 @@ This research employed a binary variable, default payment (Yes = 1, No = 0), as 
 ### Model Prediction
       Logistic Regression
       XGBoost
+      SVM
       Random Forest
+      
+      
+  # Conclusion
+  
+  ▶ After performing the various model we the get the best accuracy form the
+   Random forest and XGBoost classifier.
+
+  ▶ Logestic Regression is the least accurate as compared to other models
+   performed.
+
+  ▶ XGBoost has the best precision and the recall balance.
+
+  ▶ Higher recall can be achieved if low precision is acceptable.
+
+  ▶ We can deploy the model and can be served as an aid to human decision.
+
+  ▶ Model can be improved with more computational resources and with more
+   data.
+      
